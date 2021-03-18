@@ -1,6 +1,6 @@
 import pytest
 
-from sparking.sparking import Sparking
+from sparking import Sparking
 
 class TestSparking(object): 
 
